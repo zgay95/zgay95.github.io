@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a2423a1.chunk.css",
+    "main.js": "/static/js/main.2fb990f9.chunk.js",
+    "main.js.map": "/static/js/main.2fb990f9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5048dfce.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5048dfce.js.map",
+    "static/js/2.c1c723d9.chunk.js": "/static/js/2.c1c723d9.chunk.js",
+    "static/js/2.c1c723d9.chunk.js.map": "/static/js/2.c1c723d9.chunk.js.map",
+    "static/js/3.ae2b24e5.chunk.js": "/static/js/3.ae2b24e5.chunk.js",
+    "static/js/3.ae2b24e5.chunk.js.map": "/static/js/3.ae2b24e5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2a2423a1.chunk.css.map": "/static/css/main.2a2423a1.chunk.css.map",
+    "static/js/2.c1c723d9.chunk.js.LICENSE.txt": "/static/js/2.c1c723d9.chunk.js.LICENSE.txt",
+    "static/media/ExteriorPainting.f2d3e3cc.jpg": "/static/media/ExteriorPainting.f2d3e3cc.jpg",
+    "static/media/PSTB.9626ae3c.png": "/static/media/PSTB.9626ae3c.png",
+    "static/media/PaintSplatter.860b2eae.jpg": "/static/media/PaintSplatter.860b2eae.jpg",
+    "static/media/PressureWashing.1b9b10e4.jpg": "/static/media/PressureWashing.1b9b10e4.jpg",
+    "static/media/Step1.c113fe9b.jpg": "/static/media/Step1.c113fe9b.jpg",
+    "static/media/Step2.c38d6585.jpg": "/static/media/Step2.c38d6585.jpg",
+    "static/media/Step3.f92b349c.jpg": "/static/media/Step3.f92b349c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5048dfce.js",
+    "static/js/2.c1c723d9.chunk.js",
+    "static/css/main.2a2423a1.chunk.css",
+    "static/js/main.2fb990f9.chunk.js"
+  ]
+}
